@@ -3,24 +3,24 @@
 <head>
   <meta charset="UTF-8" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Item toevoegen</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Item-edit</title>
+  <link rel="stylesheet" href="/style.css">
 </head>
 <body class="page">
   <header class="header">
     <nav class="menu">
-      <a href="index.html">Home</a>
-      <a href="menu.html">Menu</a>
-      <a href="overons.html">Over ons</a>
-      <a href="contact.html">Contact</a>
+      <a href="/index.html">Home</a>
+      <a href="/pages/menu.html">Menu</a>
+      <a href="/pages/overons.html">Over ons</a>
+      <a href="/pages/contact.html">Contact</a>
     </nav>
   </header>
 
   <main class="add-container">
     <div class="add-box">
-      <h1 class="add-title">Nieuw item toevoegen</h1>
+      <h1 class="add-title">Item bewerken</h1>
 
-      <form class="add-form" action="toevoegen.php" method="post" enctype="multipart/form-data">
+      <form class="add-form" action="/pages/toevoegen.php" method="post" enctype="multipart/form-data">
         <label for="title">Naam</label>
         <input type="text" id="title" name="title" required>
 
@@ -34,8 +34,8 @@
         <input type="file" id="image" name="image" accept="image/*">
 
         <div class="form-actions">
-          <button type="submit" class="add-button">Toevoegen</button>
-          <a href="admin-pannel.html" class="back-button">Terug</a>
+          <button type="submit" class="add-button">Updaten</button>
+          <a href="/pages/admin-pannel.html" class="back-button">Terug</a>
         </div>
       </form>
     </div>

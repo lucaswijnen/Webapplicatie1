@@ -27,11 +27,6 @@
     color: #555;
 }
 
-
-
-
-
-
 /* Begin-Contact */ 
 
 .contact-page {
@@ -127,6 +122,42 @@
 .overons-text2 {
     color: orange;
 }
+
+.bezorgen-section{
+  max-width: 1000px;
+  margin: 60px auto;
+  padding: 0 20px;
+  color: #333;
+}
+
+.bezorgen-title{
+  font-size: 2rem;
+  margin: 0 0 16px 0;
+  color: orange;
+}
+
+.bezorgen-text{
+  font-size: 1.05rem;
+  line-height: 1.9;
+  margin: 0 0 22px 0;
+}
+
+.menukaart-button{
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  background: #f0f0f0;
+  border-radius: 12px;
+  text-decoration: none;
+  color: orange;
+  font-weight: bold;
+}
+
+.menukaart-icon{
+  font-size: 18px;
+}
+
 /* Einde-overons */
 
 
@@ -137,6 +168,7 @@
     background: #f0f0f0;
     padding: 15px 20px;
     margin-bottom: 30px;
+      border-bottom: 1px solid #cecbcb66;
 }
 
 .menu {
@@ -304,9 +336,12 @@
 .add-container {
   max-width: 480px;
   margin: 40px auto;
-  padding: 0 20px;
+  padding: 25px;
   text-align: left;
+  border: 2px solid #ddd;
+  border-radius: 15px;
 }
+
 
 .add-form label {
   display: block;
@@ -410,3 +445,22 @@
 }
 
 /* Einde-bewerken */ 
+
+/* Begin-footer */
+
+.footer {
+  background: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #333;
+  margin-top: 60px;
+  border-top: 1px solid #cecbcb66;
+}
+
+.madeby {
+  color: orange;
+  font-weight: bold;
+}
+
+/* Einde-footer */
