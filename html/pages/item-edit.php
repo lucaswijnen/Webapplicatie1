@@ -9,10 +9,10 @@
 <body class="page">
   <header class="header">
     <nav class="menu">
-      <a href="/index.html">Home</a>
-      <a href="/pages/menu.html">Menu</a>
-      <a href="/pages/overons.html">Over ons</a>
-      <a href="/pages/contact.html">Contact</a>
+      <a href="/index.php">Home</a>
+      <a href="/pages/menu.php">Menu</a>
+      <a href="/pages/overons.php">Over ons</a>
+      <a href="/pages/contact.php">Contact</a>
     </nav>
   </header>
 
@@ -35,7 +35,7 @@
 
         <div class="form-actions">
           <button type="submit" class="add-button">Updaten</button>
-          <a href="/pages/admin-pannel.html" class="back-button">Terug</a>
+          <a href="/pages/admin-pannel.php" class="back-button">Terug</a>
         </div>
       </form>
     </div>

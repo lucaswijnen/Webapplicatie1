@@ -11,13 +11,13 @@
 <body class="page">
 <header class="header">
     <nav class="menu">
-        <a href="/index.html">Home</a>
-        <a href="/pages/menu.html">Menu</a>
-        <a href="/pages/overons.html"  class="dikgedrukt">Over ons</a>
-        <a href="/pages/contact.html">Contact</a>
+        <a href="/index.php">Home</a>
+        <a href="/pages/menu.php">Menu</a>
+        <a href="/pages/overons.php"  class="dikgedrukt">Over ons</a>
+        <a href="/pages/contact.php">Contact</a>
     </nav>
     
-        <a href="/pages/login.html" class="login-button">Inloggen</a>
+        <a href="/pages/login.php" class="login-button">Inloggen</a>
 </header>
   <div class="overons-page">
 
@@ -60,7 +60,7 @@
     zo hoef je aan de deur niets meer af te rekenen.
   </p>
 
-  <a href="/pages/menu.html" class="menukaart-button">
+  <a href="/pages/menu.php" class="menukaart-button">
     Bekijk menukaart
     <ion-icon name="arrow-forward-outline" class="menukaart-icon"></ion-icon>
   </a>

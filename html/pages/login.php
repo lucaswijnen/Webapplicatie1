@@ -11,14 +11,14 @@
 <body class="page">
             <header class="header">
         <nav class="menu">
-            <a href="/index.html">Home</a>
-            <a href="/pages/menu.html">Menu</a>
-            <a href="/pages/overons.html" >Over ons</a>
-            <a href="/pages/contact.html" >Contact</a>
+            <a href="/index.php">Home</a>
+            <a href="/pages/menu.php">Menu</a>
+            <a href="/pages/overons.php" >Over ons</a>
+            <a href="/pages/contact.php" >Contact</a>
         </nav>
     </header> 
 
-<form class="login-form" action="/pages/admin-pannel.html">
+<form class="login-form" action="/pages/admin-pannel.php">
     <h2>Inloggen</h2>
 
     <label for="username">Gebruikersnaam</label>

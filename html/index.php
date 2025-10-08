@@ -11,12 +11,12 @@
 <body class="page">
 <header class="header">
     <nav class="menu">
-        <a href="index.html" class="dikgedrukt">Home</a>
-        <a href="/pages/menu.html">Menu</a>
-        <a href="/pages/overons.html">Over ons</a>
-        <a href="/pages/contact.html">Contact</a>
+        <a href="index.php" class="dikgedrukt">Home</a>
+        <a href="/pages/menu.php">Menu</a>
+        <a href="/pages/overons.php">Over ons</a>
+        <a href="/pages/contact.php">Contact</a>
     </nav>
-        <a href="/pages/login.html" class="login-button">Inloggen</a>
+        <a href="/pages/login.php" class="login-button">Inloggen</a>
 </header>
     <div class="content">
         <h1 class="title">

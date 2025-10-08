@@ -11,12 +11,12 @@
 <body class="page">
   <header class="header">
     <nav class="menu">
-        <a href="/index.html">Home</a>
-        <a href="/pages/menu.html">Menu</a>
-        <a href="/pages/overons.html">Over ons</a>
-        <a href="/pages/contact.html">Contact</a>
+        <a href="/index.php">Home</a>
+        <a href="/pages/menu.php">Menu</a>
+        <a href="/pages/overons.php">Over ons</a>
+        <a href="/pages/contact.php">Contact</a>
     </nav>
-        <a href="/pages/admin-pannel.html" class="login-button">Terug</a>
+        <a href="/pages/admin-pannel.php" class="login-button">Terug</a>
 </header>
   <main class="product-area">
     <article class="product-card">
@@ -24,7 +24,7 @@
       <h3 class="product-title">Frietjes</h3>
       <p class="product-desc">Knapperige friet, vers gesneden en goudgeel gebakken.</p>
       <p class="product-price">€ 3,50</p>
-      <a href="/pages/item-edit.html" class="edit-link"><ion-icon name="create-outline"></ion-icon> Bewerken</a>
+      <a href="/pages/item-edit.php" class="edit-link"><ion-icon name="create-outline"></ion-icon> Bewerken</a>
     </article>
 
     <article class="product-card">
@@ -32,7 +32,7 @@
       <h3 class="product-title">Friet Speciaal</h3>
       <p class="product-desc">Met saus naar keuze en uitjes.</p>
       <p class="product-price">€ 4,50</p>
-      <a href="/pages/item-edit.html" class="edit-link"><ion-icon name="create-outline"></ion-icon> Bewerken</a>
+      <a href="/pages/item-edit.php" class="edit-link"><ion-icon name="create-outline"></ion-icon> Bewerken</a>
     </article>
 
     <article class="product-card">
@@ -40,7 +40,7 @@
       <h3 class="product-title">Friet Groot</h3>
       <p class="product-desc">Extra portie voor grote trek.</p>
       <p class="product-price">€ 5,00</p>
-      <a href="/pages/item-edit.html" class="edit-link"><ion-icon name="create-outline"></ion-icon> Bewerken</a>
+      <a href="/pages/item-edit.php" class="edit-link"><ion-icon name="create-outline"></ion-icon> Bewerken</a>
     </article>
   </main>
   
